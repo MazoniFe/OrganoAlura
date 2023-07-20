@@ -1,0 +1,35 @@
+.footer{
+    background-color: #6278F7;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    max-width: 100%;
+}
+
+.footer * {
+    width: auto;
+    padding: 24px 16px;
+}
+
+.footer .logo img{
+    width: auto;
+    height: auto;
+    max-height: 48px;
+}
+
+.footer .icons img{
+    width: auto;
+    height: auto;
+    max-height: 24px;
+}
+
+.footer .info{
+    max-width:20%;
+    color: #FFF;
+
+
+}
+
+.footer .info p{
+    overflow-wrap: break-word;
+}
